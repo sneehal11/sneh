@@ -1,0 +1,5 @@
+adiition
+multiplication
+division
+subscription
+equal to
