@@ -1,0 +1,10 @@
+print("Welcome to the square calculator!")
+name = input("What's your name? ")
+print("Hi", name + "!")
+
+for i in range(3):
+    num = int(input("Enter a number: "))
+    square = num ** 2
+    print("The square of", num, "is", square)
+
+print("Thanks for using the calculator,", name + "!")
